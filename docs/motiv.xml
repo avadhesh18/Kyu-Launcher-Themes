@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>notitlerandom-Motivation widget</title>
+    <link>https://at4klauncher.com/widget-showcase</link>
+    <description>A demo RSS feed for testing widgets</description>
+    
+    <!-- Channel Icon -->
+    <image>
+      <url>https://at4klauncher.com/favicon.png</url>
+      <title>Tech Showcase Weekly</title>
+      <link>https://example.com/tech-showcase</link>
+    </image>
+    
+
+    <item>
+      <title>na</title>
+      <link>https://at4klauncher.com</link>
+      <description></description>
+      <!-- Item Background Image -->
+      <media:content url="https://themes.kyulauncher.com/test/1.png" medium="image" />
+    </item>
+    
+
+    <item>
+        <title>na</title>
+      <link>https://at4klauncher.com</link>
+      <description></description>
+      <!-- Item Background Image -->
+      <media:content url="https://themes.kyulauncher.com/test/5.png" medium="image" />
+    </item>
+        <item>
+        <title>na</title>
+      <link>https://at4klauncher.com</link>
+      <description></description>
+      <!-- Item Background Image -->
+      <media:content url="https://themes.kyulauncher.com/test/2.png" medium="image" />
+    </item>
+        <item>
+        <title>na</title>
+      <link>https://at4klauncher.com</link>
+      <description></description>
+      <!-- Item Background Image -->
+      <media:content url="https://themes.kyulauncher.com/test/3.png" medium="image" />
+    </item>
+        <item>
+        <title>na</title>
+      <link>https://at4klauncher.com</link>
+      <description></description>
+      <!-- Item Background Image -->
+      <media:content url="https://themes.kyulauncher.com/test/4.png" medium="image" />
+    </item>
+  </channel>
+</rss>
